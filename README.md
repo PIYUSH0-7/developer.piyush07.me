@@ -4,7 +4,7 @@
 
 Mastering software engineering requires relentless curiosity and structured daily execution.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
